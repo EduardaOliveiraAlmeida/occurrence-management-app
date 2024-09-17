@@ -3,6 +3,6 @@ Aplicativo móvel para Android de Gerenciamento de Ocorrências em Condomínios,
 
 
 Para rodar esse app no celular, é importante seguir alguns passos: 
-1. **Crie um projeto Expo** (se ainda não criou): - No terminal do PyCharm, execute: ```bash expo init condominio-ocorrencias ```
+1. **Crie um projeto Expo** (se ainda não criou): - No terminal, execute: ```bash expo init condominio-ocorrencias ```
 2. **Conecte seu celular ao computador:** - Baixe o aplicativo **Expo Go** no seu celular pela Play Store (Android) ou App Store (iOS).
 3. **Rode o aplicativo no seu celular:** - No PyCharm, dentro da pasta do projeto, rode o comando: ```bash expo start ``` - Isso vai abrir uma página no seu navegador com um QR Code. - Abra o **Expo Go** no celular e escaneie o QR Code. Seu app React Native começará a rodar no seu celular!
